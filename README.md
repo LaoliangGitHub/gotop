@@ -5,4 +5,5 @@
 
 `<script src="http://apps.bdimg.com/libs/jquery/2.0.2/jquery.min.js"></script>` 替换成
 `<script src="jquery/2.0.2/jquery.min.js"></script>`
-[效果截图](https://github.com/wy7365596/gotop/blob/master/images/o2.png)(https://github.com/wy7365596/gotop/blob/master/images/o1.png)
+![效果截图](https://github.com/wy7365596/gotop/blob/master/images/o2.png)
+![效果截图](https://github.com/wy7365596/gotop/blob/master/images/o1.png)
